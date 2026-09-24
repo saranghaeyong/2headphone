@@ -1,0 +1,6 @@
+{
+  "name": "SARANG — Interactive 3D Portfolio",
+  "description": "An interactive editorial portfolio centered on an interactive 3D wired headphone navigation object by Sarang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
