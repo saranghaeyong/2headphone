@@ -14,7 +14,6 @@ export interface PortfolioConfig {
     location: string;
     year: string;
     tagline: string;
-    about: string;
   };
   destinations: {
     films: {
@@ -57,7 +56,6 @@ export const PORTFOLIO_CONFIG: PortfolioConfig = {
     location: 'SEOUL / TOKYO / WORLD',
     year: '2026',
     tagline: 'Physical navigation through soundscapes and motion pictures.',
-    about: 'Independent director, archivist, and acoustic sound designer exploring tactile audio interfaces and cinematic narratives.',
   },
   destinations: {
     films: {
