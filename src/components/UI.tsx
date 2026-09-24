@@ -375,9 +375,6 @@ export const UI: React.FC<UIProps> = ({
           >
             <div className="flex items-start justify-between">
               <div>
-                <span className="text-[10px] uppercase tracking-widest text-[#88837a] dark:text-[#aaa59b] font-semibold">
-                  Curatorial Statement
-                </span>
                 <h3 id="info-modal-title" className="font-serif-title text-2xl text-[#1c1b18] dark:text-white mt-1">
                   SARANG · 2026
                 </h3>
@@ -391,10 +388,6 @@ export const UI: React.FC<UIProps> = ({
                 <X className="w-5 h-5" />
               </button>
             </div>
-
-            <p className="text-sm text-[#4d4942] dark:text-[#bbb6ab] leading-relaxed">
-              {artist.about}
-            </p>
 
             <div className="space-y-2 pt-2 border-t border-[#1c1b18]/8 dark:border-white/10 text-xs">
               <div className="flex justify-between py-1">
